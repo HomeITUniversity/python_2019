@@ -1,0 +1,10 @@
+{
+  "database": {
+    "dbname": "mydb.db"
+  },
+  "logger": {
+    "logger_name": "TLP",
+    "level": "INFO",
+    "logs_dir": ""
+  }
+}
